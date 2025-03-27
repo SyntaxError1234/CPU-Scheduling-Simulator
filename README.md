@@ -3,7 +3,7 @@
 ---
 
 ## 📌 Project Overview
-This repository contains our project for the **CSE316** course at Lovely Professional University, submitted as part of **Academic Task-2**. Our team developed a **CPU Scheduling Simulator** that models and visualizes the execution of different CPU scheduling algorithms. The project is implemented in Python and follows a **three-module architecture**, ensuring modularity and scalability.
+This repository contains our project for the **CSE316** course at Lovely Professional University, submitted as part of **Academic Task-1**. Our team developed a **CPU Scheduling Simulator** that models and visualizes the execution of different CPU scheduling algorithms. The project is implemented in Python and follows a **three-module architecture**, ensuring modularity and scalability.
 
 ---
 
@@ -57,7 +57,7 @@ cd CPUSchedulingSimulator
 ### 5️⃣ Run the Project
 Execute the main script to start the simulator:
 ```sh
-python main.py
+python CPU Scheduling Simulator.py
 ```
 
 ---
@@ -65,19 +65,16 @@ python main.py
 ## 📂 Project Structure
 The project is divided into three main modules, each responsible for a specific functionality:
 
-- 📌 **Process Input & Management (`process_manager.py`)**: Handles user input for processes and scheduling parameters.
-- 📌 **CPU Scheduling Algorithms (`scheduler.py`)**: Implements multiple scheduling algorithms.
-- 📌 **Visualization (`visualizer.py`)**: Generates Gantt charts to visualize process execution.
-- 📌 **Main Script (`main.py`)**: Integrates all modules to run the simulator.
+- 📌 **Main Script (`CPU Scheduling Simulator.py`)**: Integrates all modules to run the simulator.
 
 ---
 
 ## 👥 Team Members and Contributions
 Our team consists of three members, each responsible for one module:
 
-- **Reg Number 12319490**: Developed the **Process Management** module.
-- **Reg Number 12312303**: Developed the **CPU Scheduling Algorithms** module.
-- **Me (Reg Number 12314690)**: Developed the **Visualization** module and integrated all modules in `main.py`.
+- **Poorv Patidar (12322094)**: Developed the **Process Management** module.
+- **Prashant Kumar (12324360)**: Developed the **CPU Scheduling Algorithms** module.
+- **Veeresh A (12319252)**: Developed the **Visualization** module..
 
 ---
 
@@ -93,10 +90,9 @@ Our team consists of three members, each responsible for one module:
 ## 🔄 Development Process
 1. **Repository Setup**: Created a public repository on GitHub.
 2. **Module Development**:
-   - Each team member worked on their respective module in separate branches.
+   - Each team member worked on their respective module.
    - Used multiple commits to track progress.
 3. **Revisions & Integration**:
-   - Merged all branches into `main` using pull requests.
    - Ensured all modules work seamlessly together.
 4. **Documentation**:
    - Created this README.md for detailed project description.
@@ -119,7 +115,7 @@ Our team consists of three members, each responsible for one module:
 ---
 
 ## 📌 GitHub Contributions
-We made **25+ commits** in this repository to track our progress. Each team member contributed through their respective branches, and all changes were merged into `main`. Check the commit history for detailed progress!
+We made **5+ commits** in this repository to track our progress. Check the commit history for detailed progress!
 
 ---
 
