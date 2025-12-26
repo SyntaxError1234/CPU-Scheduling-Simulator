@@ -12,7 +12,7 @@ Our CPU Scheduling Simulator allows users to:
 - Select a CPU scheduling algorithm (FCFS, SJF, Priority, Round Robin, etc.).
 - Input process details such as burst time, arrival time, and priority.
 - Simulate and visualize process execution using Gantt charts.
-- Calculate and display key performance metrics:
+- Calculate and display key performance metrics
   - ✅ Average waiting time
   - ✅ Turnaround time
   - ✅ Response time
